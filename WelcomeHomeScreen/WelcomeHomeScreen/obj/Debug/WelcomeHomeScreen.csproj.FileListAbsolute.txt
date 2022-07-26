@@ -1,0 +1,7 @@
+C:\Users\deond\Basic_C#_Programs\WelcomeHomeScreen\WelcomeHomeScreen\bin\Debug\WelcomeHomeScreen.exe.config
+C:\Users\deond\Basic_C#_Programs\WelcomeHomeScreen\WelcomeHomeScreen\bin\Debug\WelcomeHomeScreen.exe
+C:\Users\deond\Basic_C#_Programs\WelcomeHomeScreen\WelcomeHomeScreen\bin\Debug\WelcomeHomeScreen.pdb
+C:\Users\deond\Basic_C#_Programs\WelcomeHomeScreen\WelcomeHomeScreen\obj\Debug\WelcomeHomeScreen.csproj.AssemblyReference.cache
+C:\Users\deond\Basic_C#_Programs\WelcomeHomeScreen\WelcomeHomeScreen\obj\Debug\WelcomeHomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\deond\Basic_C#_Programs\WelcomeHomeScreen\WelcomeHomeScreen\obj\Debug\WelcomeHomeScreen.exe
+C:\Users\deond\Basic_C#_Programs\WelcomeHomeScreen\WelcomeHomeScreen\obj\Debug\WelcomeHomeScreen.pdb

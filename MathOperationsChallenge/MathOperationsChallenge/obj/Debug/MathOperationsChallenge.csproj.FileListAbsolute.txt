@@ -1,0 +1,7 @@
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathOperationsChallenge\MathOperationsChallenge\bin\Debug\MathOperationsChallenge.exe.config
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathOperationsChallenge\MathOperationsChallenge\bin\Debug\MathOperationsChallenge.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathOperationsChallenge\MathOperationsChallenge\bin\Debug\MathOperationsChallenge.pdb
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathOperationsChallenge\MathOperationsChallenge\obj\Debug\MathOperationsChallenge.csproj.AssemblyReference.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathOperationsChallenge\MathOperationsChallenge\obj\Debug\MathOperationsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathOperationsChallenge\MathOperationsChallenge\obj\Debug\MathOperationsChallenge.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathOperationsChallenge\MathOperationsChallenge\obj\Debug\MathOperationsChallenge.pdb

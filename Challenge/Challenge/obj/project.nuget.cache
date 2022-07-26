@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wIDfXrAbkQXIoB414YZNdcwyBIoB+6o1o4vF2QuUj6L1r9my29/25NyuO5gc8BjOzv6lUT7yfAbx1jKqrednsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deond\\OneDrive\\Documents\\GitHub\\Basic_C#_Programs\\Challenge\\Challenge\\Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deond\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
