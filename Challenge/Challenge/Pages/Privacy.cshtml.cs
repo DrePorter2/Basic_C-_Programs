@@ -16,7 +16,7 @@ namespace Challenge.Pages
 
         public void OnGet()
         {
-            string dateTime = DateTime.Now.ToString("d", new CultureInfo("en-US"));
+            string dateTime = DateTime.Now.ToShortDateString();
             ViewData["TimeStamp"] = dateTime;
         }
     }
